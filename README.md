@@ -2,7 +2,7 @@ JS learning project
 
 Made by course of awesome [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
 
-[Live DEMO](https://afterwaga.github.io/Forkify/)
+[Live DEMO](afterwagaforkify.netlify.app)
 
 npm run start
 
